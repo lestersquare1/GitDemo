@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="151" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="151" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+      <class name="lestersquare.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:lestersquare.RestApiTest@6fc6f14e]" name="deleteTwitter" duration-ms="2" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:lestersquare.RestApiTest@6fc6f14e]" name="postJira" duration-ms="1" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- lestersquare.RestApiTest -->
+      <class name="lestersquare.AppiumTest">
+        <test-method status="PASS" signature="IosApp()[pri:0, instance:lestersquare.AppiumTest@20398b7c]" name="IosApp" duration-ms="16" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:lestersquare.AppiumTest@20398b7c]" name="NativeAppAndroid" duration-ms="1" started-at="2020-04-24T15:33:53 NZST" finished-at="2020-04-24T15:33:53 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- lestersquare.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
